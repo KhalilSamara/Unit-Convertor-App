@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lemon">#C2E812</color>
+    <color name="dBlue">#020887</color>
+    <color name="grey">#525252</color>
+    <color name="lBlue">#75B9BE</color>
+    <color name="turquoise">#0AFFED</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
